@@ -7,7 +7,9 @@ Tenho facilidade em aderir aos ambientes de trabalhos, na qual ja trabalhei em f
 ## O que eu aprendi 
 
 ![HTML](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white) ![DART](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white)
+<br>
 ![SQL SERVER](https://img.shields.io/badge/sqlserver-blue?style=for-the-badge&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-blue?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-boostrap-blue?style=for-the-badge&logo=bootstrap&labelColor=blue&logoColor=white)
 
 ## Contatos e Redes Sociais
